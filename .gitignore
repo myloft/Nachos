@@ -1,0 +1,16 @@
+# ignore .o .s file
+*.o
+*.s
+# ignore binaray
+coff2noff
+nachos
+big
+medium
+small
+/test/halt
+matmult
+script
+*.coff
+shell
+sort
+*.dis
